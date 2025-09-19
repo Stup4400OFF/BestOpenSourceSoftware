@@ -10,6 +10,8 @@ WARNING: Those ideas are not all from me, see sources at the end.
     - [C/UA](https://github.com/trycua/cua): Cua is a docker for Computer-Use AI agents.
     - [Claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
     - [Crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favorite terminal.
+    - [Gemini CLI](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
+    - [Gptme](https://github.com/gptme/gptme): Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web vision.
 
 ## Sources:
 [Definitive Opensource](https://github.com/mustbeperfect/definitive-opensource)
