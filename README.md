@@ -8,6 +8,7 @@ WARNING: Those ideas are not all from me, see sources at the end.
     - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
     - [BrowserUse](https://github.com/browser-use/browser-use): Make websites more accessible for AI agents. Automate tasks online with ease.
     - [C/UA](https://github.com/trycua/cua): Cua is a docker for Computer-Use AI agents
+    - [Claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 ## Sources:
 [Definitive Opensource](https://github.com/mustbeperfect/definitive-opensource)
